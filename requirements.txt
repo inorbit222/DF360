@@ -1,0 +1,5 @@
+# Minimal requirements for df360_gui.py
+PyQt5>=5.15.10
+PyYAML>=6.0.1
+# Optional (only needed for Soapy enumerate/test in the GUI)
+SoapySDR==0.8.1
